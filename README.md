@@ -4,6 +4,8 @@
 **Level**: Intermediate  
 **Database**: `mysql_project`
 
+https://github.com/HardikThakur04/Stocks_Analysis_using_MySql/blob/ff4b9f8565f594df86dcefe1a5cd9c8a6f11abc2/stocks%20image.jpg
+
 This project demonstrates SQL skills and techniques for exploring, analyzing, and gaining insights from historical stock market data. Using MySQL, this analysis includes setting up a stocks database, performing exploratory data analysis (EDA), and answering key business questions through SQL queries. This project is ideal for data enthusiasts aiming to build strong SQL skills through practical financial data analysis.
 
 ## Objectives
